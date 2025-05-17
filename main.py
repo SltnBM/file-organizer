@@ -5,7 +5,7 @@ def organize_files(folder_path):
 # File extension to folder mapping
     extension_map = {
         'Images': ['.jpg', '.jpeg', '.png', '.gif'],
-        'Documents': ['.pdf', '.docx', '.txt', '.xlsx'],
+        'Documents': ['.pdf', '.docx', '.doc', '.txt', '.xlsx', '.pptx', '.ppt', '.pptm'],
         'Music': ['.mp3', '.wav'],
         'Videos': ['.mp4', '.mkv'],
         'Archives': ['.zip', '.rar'],
