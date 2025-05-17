@@ -28,9 +28,11 @@ python main.py
 ```
 
 ## ⚙️ Setup
-In main.py, set the path of the folder you want to organize:
+When you run the script, it will ask you to enter the folder path to organize.
+
+Example input:
 ```bash
-folder_path = r'C:\Users\YourName\Downloads'
+Enter folder path to organize: C:\Users\YourName\Downloads
 ```
 
 ## Example 🔍
