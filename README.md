@@ -7,6 +7,9 @@ A simple Python script that automatically organizes files in a folder based on t
 - Easy to customize and extend
 - Works on Windows, macOS, and Linux
 
+## ⚙️ Requirements
+1. Python 3.x
+2. No external libraries needed
 
 ## 🚀 How To Use
 1. Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
@@ -23,7 +26,6 @@ cd file-organizer
 python main.py
 ```
 
-## ⚙️ Setup
 When you run the script, it will ask you to enter the folder path to organize.
 
 Example input:
