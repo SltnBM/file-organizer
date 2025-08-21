@@ -1,20 +1,16 @@
-# 🗂️ File Organizer - Python Project
+# 🗂️ File Organizer
 A simple Python script that automatically organizes files in a folder based on their file extensions. Perfect for keeping your folders clean and well-organized
 
----
-
-## 📦 Features
+## ✨ Features
 - Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
 - Creates target folders if they don't exist
 - Easy to customize and extend
 - Works on Windows, macOS, and Linux
 
----
 
 ## 🚀 How To Use
 1. Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
 2. Clone the Repository
-
 ```bash
 git clone https://github.com/SltnBM/file-organizer.git
 ```
