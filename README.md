@@ -2,10 +2,9 @@
 A simple Python script that automatically organizes files in a folder based on their file extensions. Perfect for keeping your folders clean and well-organized
 
 ## ✨ Features
-- Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
-- Creates target folders if they don't exist
-- Easy to customize and extend
-- Works on Windows, macOS, and Linux
+- 💻 Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
+- 📂 Creates target folders if they don't exist
+- ⚙️ Easy to customize and extend
 
 ## ⚙️ Requirements
 1. 🐍 Python 3.x
