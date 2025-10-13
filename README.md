@@ -1,14 +1,20 @@
 # 🗂️ File Organizer
 A simple Python script that automatically organizes files in a folder based on their file extensions. Perfect for keeping your folders clean and well-organized
 
+---
+
 ## ✨ Features
 - 💻 Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
 - 📂 Creates target folders if they don't exist
 - ⚙️ Easy to customize and extend
 
+---
+
 ## ⚙️ Requirements
 1. 🐍 Python 3.x
 2. 📦 No external libraries needed
+
+---
 
 ## 🚀 How To Use
 1. 🐍 Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
@@ -31,6 +37,8 @@ Example input:
 ```bash
 Enter folder path to organize: C:\Users\YourName\Downloads
 ```
+
+---
 
 ## Example 🔍
 Before:
@@ -66,11 +74,17 @@ After:
 
 ```
 
+---
+
 ## 🛠️ Customization
 You can customize file categories and extensions by editing the extension_map dictionary inside main.py.
 
+---
+
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin\&logoColor=white\&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+---
 
 ## 📄 License
 This project is open-source and free to use under the MIT [LICENSE](./LICENSE).
