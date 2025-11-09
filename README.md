@@ -4,29 +4,29 @@ A simple Python script that automatically organizes files in a folder based on t
 ---
 
 ## ✨ Features
-- 💻 Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
-- 📂 Creates target folders if they don't exist
-- ⚙️ Easy to customize and extend
+- Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
+- Creates target folders if they don't exist
+- Easy to customize and extend
 
 ---
 
 ## ⚙️ Requirements
-1. 🐍 Python 3.x
-2. 📦 No external libraries needed
+1. Python 3.x
+2. No external libraries needed
 
 ---
 
 ## 🚀 How To Use
-1. 🐍 Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
-2. 📥 Clone the Repository
+1. Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
+2. Clone the Repository
 ```bash
 git clone https://github.com/SltnBM/file-organizer.git
 ```
-3. 📂 Navigate to the project directory
+3. Navigate to the project directory
 ```bash
 cd file-organizer
 ```
-4. ▶️ Run the script using terminal or command prompt
+4. Run the script using terminal or command prompt
 ```bash
 python main.py
 ```
@@ -44,33 +44,33 @@ Enter folder path to organize: C:\Users\YourName\Downloads
 Before:
 ```bash
  📂 Downloads/
-├── 🖼️ photo.jpg
-├── 🖼️ vacation.png
-├── 📄 report.pdf
-├── 📄 notes.txt
-├── 🎵 song.mp3
-├── 🎥 video.mp4
-├── 🗃️ archive.zip
-├── ❓ randomfile.xyz
+├── photo.jpg
+├── vacation.png
+├── report.pdf
+├── notes.txt
+├── song.mp3
+├── video.mp4
+├── archive.zip
+├── randomfile.xyz
 ```
 
 After:
 ```bash
 📂 Downloads/
 ├── 📁 Images/
-│   ├── 🖼️ photo.jpg
-│   └── 🖼️ vacation.png
+│   ├── photo.jpg
+│   └── vacation.png
 ├── 📁 Documents/
-│   ├── 📄 report.pdf
-│   └── 📄 notes.txt
+│   ├── report.pdf
+│   └── notes.txt
 ├── 📁 Music/
-│   └── 🎵 song.mp3
+│   └── song.mp3
 ├── 📁 Videos/
-│   └── 🎥 video.mp4
+│   └── video.mp4
 ├── 📁 Archives/
-│   └── 🗃️ archive.zip
+│   └── archive.zip
 ├── 📁 Others/
-│   └── ❓ randomfile.xyz
+│   └── randomfile.xyz
 
 ```
 
