@@ -1,22 +1,22 @@
-# 🗂️ File Organizer
+# File Organizer
 A simple Python script that automatically organizes files in a folder based on their file extensions. Perfect for keeping your folders clean and well-organized
 
 ---
 
-## ✨ Features
+## Features
 - Automatically sorts files by type (Images, Documents, Music, Videos, Archives)
 - Creates target folders if they don't exist
 - Easy to customize and extend
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 1. Python 3.x
 2. No external libraries needed
 
 ---
 
-## 🚀 How To Use
+## How To Use
 1. Make sure you have Python installed (Python 3 recommended). Download it from [python.org](https://www.python.org/downloads/).  
 2. Clone the Repository
 ```bash
@@ -40,10 +40,10 @@ Enter folder path to organize: C:\Users\YourName\Downloads
 
 ---
 
-## Example 🔍
+## Example
 Before:
 ```bash
- 📂 Downloads/
+Downloads/
 ├── photo.jpg
 ├── vacation.png
 ├── report.pdf
@@ -56,40 +56,40 @@ Before:
 
 After:
 ```bash
-📂 Downloads/
-├── 📁 Images/
+Downloads/
+├── Images/
 │   ├── photo.jpg
 │   └── vacation.png
-├── 📁 Documents/
+├── Documents/
 │   ├── report.pdf
 │   └── notes.txt
-├── 📁 Music/
+├── Music/
 │   └── song.mp3
-├── 📁 Videos/
+├── Videos/
 │   └── video.mp4
-├── 📁 Archives/
+├── Archives/
 │   └── archive.zip
-├── 📁 Others/
+├── Others/
 │   └── randomfile.xyz
 
 ```
 
 ---
 
-## 🛠️ Customization
+## Customization
 You can customize file categories and extensions by editing the extension_map dictionary inside main.py.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin\&logoColor=white\&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
 ---
 
-## 📄 License
+## License
 This project is open-source and free to use under the MIT [LICENSE](./LICENSE).
